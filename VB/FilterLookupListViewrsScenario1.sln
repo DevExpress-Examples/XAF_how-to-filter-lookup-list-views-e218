@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterLookupListViewsScenario1.Module", "FilterLookupListViewrsScenario1.Module\FilterLookupListViewsScenario1.Module.vbproj", "{CADA5BD1-31D0-4E46-B04E-72DEF44022BD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterLookupListViewsScenario1.Module.Web", "FilterLookupListViewrsScenario1.Module.Web\FilterLookupListViewsScenario1.Module.Web.vbproj", "{3C928B6F-8C72-4564-8A02-205F84C6885A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterLookupListViewsScenario1.Web", "FilterLookupListViewrsScenario1.Web\FilterLookupListViewsScenario1.Web.vbproj", "{79A778E7-3D3E-4C0B-99F3-5AD47ABCA30B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterLookupListViewsScenario1.Module.Win", "FilterLookupListViewrsScenario1.Module.Win\FilterLookupListViewsScenario1.Module.Win.vbproj", "{2CDB4892-EFA1-4695-BEE8-6CD4607C530E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilterLookupListViewsScenario1.Win", "FilterLookupListViewrsScenario1.Win\FilterLookupListViewsScenario1.Win.vbproj", "{E8181D9D-FD58-41EC-9593-E6D8E589CCB0}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADA5BD1-31D0-4E46-B04E-72DEF44022BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADA5BD1-31D0-4E46-B04E-72DEF44022BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADA5BD1-31D0-4E46-B04E-72DEF44022BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADA5BD1-31D0-4E46-B04E-72DEF44022BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C928B6F-8C72-4564-8A02-205F84C6885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C928B6F-8C72-4564-8A02-205F84C6885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C928B6F-8C72-4564-8A02-205F84C6885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C928B6F-8C72-4564-8A02-205F84C6885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A778E7-3D3E-4C0B-99F3-5AD47ABCA30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A778E7-3D3E-4C0B-99F3-5AD47ABCA30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A778E7-3D3E-4C0B-99F3-5AD47ABCA30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A778E7-3D3E-4C0B-99F3-5AD47ABCA30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDB4892-EFA1-4695-BEE8-6CD4607C530E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDB4892-EFA1-4695-BEE8-6CD4607C530E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDB4892-EFA1-4695-BEE8-6CD4607C530E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDB4892-EFA1-4695-BEE8-6CD4607C530E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8181D9D-FD58-41EC-9593-E6D8E589CCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8181D9D-FD58-41EC-9593-E6D8E589CCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8181D9D-FD58-41EC-9593-E6D8E589CCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8181D9D-FD58-41EC-9593-E6D8E589CCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
